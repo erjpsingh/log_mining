@@ -1,0 +1,351 @@
+Feb 11, 2017 12:42:43 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 12:42:43 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 12:42:43 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 1:02:43 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 21 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 1:02:44 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 1:02:44 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 1:02:44 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 1:02:44 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 1:22:50 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 84 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 1:22:50 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 1:22:50 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 1:22:50 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 1:22:50 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 1:42:44 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 71 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 1:42:44 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 1:42:44 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 1:42:44 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 1:42:44 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 2:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 74 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 2:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 2:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 2:02:42 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 2:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 2:22:39 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 76 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 2:22:39 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 2:22:39 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 2:22:39 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 2:22:39 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 2:42:30 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 157 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 2:42:30 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 2:42:30 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 2:42:30 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 2:42:30 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 3:02:31 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 66 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 3:02:31 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 3:02:31 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 3:02:31 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 3:02:31 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 3:22:54 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 19 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 3:22:55 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 3:22:55 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 3:22:55 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 3:22:55 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 3:42:32 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 156 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 3:42:32 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 3:42:32 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 3:42:32 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 3:42:32 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 4:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 11 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 4:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 4:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 4:02:42 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 4:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 4:22:30 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 15 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 4:22:30 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 4:22:30 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 4:22:30 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 4:22:30 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 4:42:30 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 196 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 4:42:30 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 4:42:30 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 4:42:30 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 4:42:30 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 5:02:44 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 16 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 5:02:44 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 5:02:44 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 5:02:44 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 5:02:44 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 5:22:37 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 97 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 5:22:37 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 5:22:37 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 5:22:37 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 5:22:37 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 5:42:34 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 126 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 5:42:34 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 5:42:34 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 5:42:34 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 5:42:34 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 6:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 19 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 6:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 6:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 6:02:42 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 6:02:42 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 6:22:36 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 65 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 6:22:36 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 6:22:36 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 6:22:36 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 6:22:36 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 6:42:31 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 12 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 6:42:31 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 6:42:31 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 6:42:31 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 6:42:31 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 7:02:46 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 49 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 7:02:47 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 7:02:47 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 7:02:47 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 7:02:47 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 7:22:30 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 159 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 7:22:30 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 7:22:30 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 7:22:30 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 7:22:30 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 7:42:29 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 44 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 7:42:30 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 7:42:30 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 7:42:30 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 7:42:30 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 8:02:31 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 29 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 10:14:11 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 10:14:11 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 10:14:11 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 10:14:11 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 10:32:35 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 11 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 10:32:35 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 10:32:35 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 10:32:35 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 10:32:35 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 10:53:03 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 59 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 10:53:03 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 10:53:03 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 10:53:03 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 10:53:03 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 11:12:36 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 70 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 11:12:36 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 11:12:36 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 11:12:36 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 11:12:36 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 11:32:41 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 23 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 11:32:41 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 11:32:41 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 11:32:41 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 11:32:41 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 11:52:31 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 70 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 11:52:31 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 11:52:31 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 11:52:31 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 11:52:31 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 12:12:28 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 11 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 12:12:28 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 12:12:28 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 12:12:28 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 12:12:28 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 12:32:34 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 23 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 12:32:34 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 12:32:34 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 12:32:34 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 12:32:34 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 12:52:30 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 98 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 12:52:30 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 12:52:30 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 12:52:30 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 12:52:30 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 1:12:40 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 24 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 1:12:40 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 1:12:40 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 1:12:40 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 1:12:40 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 1:33:01 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 42 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 1:33:01 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 1:33:01 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 1:33:01 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 1:33:01 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 1:52:47 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 79 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 8:12:48 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 8:12:48 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 8:12:48 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 8:12:48 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 8:32:37 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 77 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 8:32:37 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 8:32:37 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 8:32:37 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 8:32:37 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 8:52:36 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 23 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 8:52:36 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 9:33:10 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 9:33:10 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 9:33:10 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 9:33:10 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 9:52:31 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 19 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 9:52:31 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 11, 2017 9:52:31 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 11, 2017 9:52:31 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 11, 2017 9:52:31 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 11, 2017 10:12:58 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 40 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 11, 2017 10:12:58 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 1:32:52 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 1:32:52 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 1:32:52 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 1:32:52 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 1:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 140 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 1:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 1:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 1:52:47 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 1:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 2:12:58 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 115 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 2:12:58 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 2:32:28 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 2:32:28 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 2:32:28 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 2:32:28 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 2:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 20 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 2:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 2:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 2:52:47 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 2:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 3:12:58 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 29 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 3:12:58 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 3:32:50 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 3:32:50 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 3:32:50 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 3:32:50 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 3:52:35 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 21 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 3:52:35 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 3:52:35 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 3:52:35 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 3:52:35 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 4:12:36 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 43 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 4:12:36 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 4:33:10 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 4:33:10 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 4:33:10 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 4:33:10 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 4:53:17 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 56 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 4:53:17 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 4:53:17 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 4:53:17 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 4:53:17 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 5:12:28 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 29 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 5:12:28 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 5:32:29 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 5:32:29 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 5:32:29 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 5:32:29 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 5:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 44 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 5:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 5:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 5:52:47 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 5:52:47 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 6:12:51 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 123 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 6:12:51 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 6:32:50 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 6:32:50 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 6:32:50 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 6:32:50 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 6:52:55 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 22 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 6:52:55 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 6:52:55 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 6:52:55 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 6:52:55 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 7:12:37 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 63 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 7:12:37 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 7:32:48 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 7:32:48 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 7:32:48 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 7:32:48 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 7:52:44 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 19 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 7:52:44 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 7:52:44 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 7:52:44 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 7:52:44 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 8:12:39 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 85 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 8:12:39 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 9:33:03 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 9:33:03 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 9:33:03 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 9:33:03 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 9:53:15 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 25 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 9:53:16 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 9:53:16 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 9:53:16 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 9:53:16 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 10:12:31 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 33 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 10:12:31 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 10:12:31 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 10:12:31 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 10:12:31 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 10:32:36 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 98 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 10:32:36 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 10:32:36 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 10:32:36 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 10:32:36 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 10:52:33 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 13 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 10:52:33 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 10:52:33 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 10:52:33 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 10:52:33 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 11:12:54 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 205 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 11:12:54 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 11:12:54 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 11:12:54 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 11:12:54 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 11:32:36 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 90 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 11:32:36 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 11:32:36 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 11:32:37 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 11:32:37 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 11:53:15 AM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 13 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 11:53:16 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 11:53:16 AM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 11:53:16 AM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 11:53:16 AM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 12:12:37 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 125 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 12:12:37 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 12:12:37 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 12:12:37 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 12:12:37 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 12:32:50 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 12 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 12:32:50 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 12:32:50 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 12:32:50 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 12:32:50 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 12:52:28 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 31 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 12:52:28 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 12:52:28 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 12:52:28 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 12:52:28 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 1:12:38 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 30 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 1:12:38 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 1:12:38 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 1:12:38 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 1:12:38 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 1:32:32 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 12 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 1:32:32 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 1:32:32 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 1:32:32 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 1:32:32 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 1:52:40 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 17 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 1:52:40 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 1:52:40 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 1:52:40 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 1:52:40 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 2:12:31 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 137 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 2:12:31 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 2:12:31 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 2:12:31 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 2:12:31 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 2:32:58 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 22 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 2:32:58 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 2:32:58 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 3:32:45 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 3:32:45 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 3:32:45 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 3:32:45 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 3:52:31 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 17 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 3:52:31 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server
+Feb 12, 2017 3:52:31 PM DEBUG   / XtifySDK 2.6.7.6 : Provider query(uri=content://com.csam.icici.bank.imobile.XTIFY_PROVIDER/metrics, proj=[_id, action, value, timestamp])
+Feb 12, 2017 3:52:32 PM INFO    / XtifySDK 2.6.7.6 : MetricsDataAccess metrics cursor is empty
+Feb 12, 2017 3:52:32 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager No metrics to send.
+Feb 12, 2017 4:12:28 PM DEBUG   / XtifySDK 2.6.7.6 : AlarmReceiver onReceive took 198 millis for action null and listener com.xtify.sdk.alarm.MetricsIntentService
+Feb 12, 2017 4:12:28 PM DEBUG   / XtifySDK 2.6.7.6 : XtifyMetricsManager Trying to send metrics to the server

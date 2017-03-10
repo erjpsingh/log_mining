@@ -1,0 +1,1190 @@
+2017-03-03T05:43:15.784521+00:00 shinyapps[158385]: [[141]]$sentiment
+2017-03-03T05:43:15.784584+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784667+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784877+00:00 shinyapps[158385]: [[150]]$sentiment
+2017-03-03T05:43:15.784885+00:00 shinyapps[158385]: [1] -0.872
+2017-03-03T05:43:15.784949+00:00 shinyapps[158385]: [[151]]$document
+2017-03-03T05:43:15.784970+00:00 shinyapps[158385]: [1] "putin is not a saint but he is not americas enemyour enemies are within  "
+2017-03-03T05:43:15.784525+00:00 shinyapps[158385]: [1] -0.4404
+2017-03-03T05:43:15.784585+00:00 shinyapps[158385]: [[142]]$document
+2017-03-03T05:43:15.784668+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784710+00:00 shinyapps[158385]: [[145]]$sentiment
+2017-03-03T05:43:15.784764+00:00 shinyapps[158385]: [[146]]$document
+2017-03-03T05:43:15.784572+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784639+00:00 shinyapps[158385]: [1] "america voted for trump because we have lost total faith in politicians no one trusts politicians anymore amp fakenews defends them enemy"
+2017-03-03T05:43:15.784677+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784718+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.784782+00:00 shinyapps[158385]: [[147]]
+2017-03-03T05:43:15.784479+00:00 shinyapps[158385]: [[140]]$sentiment
+2017-03-03T05:43:15.784641+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784678+00:00 shinyapps[158385]: [[144]]$document
+2017-03-03T05:43:15.784719+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784789+00:00 shinyapps[158385]: [[147]]$sentiment
+2017-03-03T05:43:15.784571+00:00 shinyapps[158385]: [1] "doctors d printed a replacement for this womans damaged spine  via \n\nusa america ccot pjnet news"
+2017-03-03T05:43:15.784642+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784676+00:00 shinyapps[158385]: [1] -0.4939
+2017-03-03T05:43:15.784720+00:00 shinyapps[158385]: [[145]]$document
+2017-03-03T05:43:15.784782+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784526+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784642+00:00 shinyapps[158385]: [[143]]
+2017-03-03T05:43:15.784668+00:00 shinyapps[158385]: [[144]]
+2017-03-03T05:43:15.784751+00:00 shinyapps[158385]: [1] "breitbart  america has always been the one that leads president trump  "
+2017-03-03T05:43:15.784780+00:00 shinyapps[158385]: [1] "america is a bad boyfriend\n\nfood for thought for every american\n\n"
+2017-03-03T05:43:15.784526+00:00 shinyapps[158385]: [[141]]$document
+2017-03-03T05:43:15.784643+00:00 shinyapps[158385]: [[143]]$sentiment
+2017-03-03T05:43:15.784669+00:00 shinyapps[158385]: [[144]]$sentiment
+2017-03-03T05:43:15.784752+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784782+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784753+00:00 shinyapps[158385]: [[146]]
+2017-03-03T05:43:15.784754+00:00 shinyapps[158385]: [[146]]$sentiment
+2017-03-03T05:43:15.784436+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784520+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784654+00:00 shinyapps[158385]: [[143]]$document
+2017-03-03T05:43:15.784753+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784363+00:00 shinyapps[158385]: [[138]]$sentiment
+2017-03-03T05:43:15.784439+00:00 shinyapps[158385]: [[139]]$document
+2017-03-03T05:43:15.784520+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784578+00:00 shinyapps[158385]: [[142]]$sentiment
+2017-03-03T05:43:15.784791+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.784997+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784998+00:00 shinyapps[158385]: [[153]]
+2017-03-03T05:43:15.785049+00:00 shinyapps[158385]: [1] -0.4019
+2017-03-03T05:43:15.785050+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784803+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784813+00:00 shinyapps[158385]: [1] 0.6249
+2017-03-03T05:43:15.784836+00:00 shinyapps[158385]: [1] -0.296
+2017-03-03T05:43:15.784937+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784814+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784837+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784938+00:00 shinyapps[158385]: [[151]]
+2017-03-03T05:43:15.784813+00:00 shinyapps[158385]: [[148]]$sentiment
+2017-03-03T05:43:15.784838+00:00 shinyapps[158385]: [[149]]$document
+2017-03-03T05:43:15.784937+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784803+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784874+00:00 shinyapps[158385]: [1] "stock mkt in india and america at all time high  all u leftist stop  calling  trump modi as modern day hitler moditransformsvaranasi"
+2017-03-03T05:43:15.785148+00:00 shinyapps[158385]: [1] "jeff sessions must now tell america the whole truth  theguardian news us election trump  "
+2017-03-03T05:43:15.785149+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784811+00:00 shinyapps[158385]: [[148]]
+2017-03-03T05:43:15.784875+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784935+00:00 shinyapps[158385]: [1] " so much for the end of trivial fighting you only get fired if you lie to  lie to america keep your job pathetic"
+2017-03-03T05:43:15.784826+00:00 shinyapps[158385]: [1] "awesome \nmaga potus america "
+2017-03-03T05:43:15.784876+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784947+00:00 shinyapps[158385]: [1] 0.5334
+2017-03-03T05:43:15.784814+00:00 shinyapps[158385]: [[148]]$document
+2017-03-03T05:43:15.784876+00:00 shinyapps[158385]: [[150]]
+2017-03-03T05:43:15.784938+00:00 shinyapps[158385]: [[151]]$sentiment
+2017-03-03T05:43:15.784709+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784762+00:00 shinyapps[158385]: [1] -0.5423
+2017-03-03T05:43:15.784948+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784710+00:00 shinyapps[158385]: [[145]]
+2017-03-03T05:43:15.784763+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784802+00:00 shinyapps[158385]: [1] "md mural maryland america "
+2017-03-03T05:43:15.784983+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785247+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785248+00:00 shinyapps[158385]: [[158]]$document
+2017-03-03T05:43:15.785002+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.785100+00:00 shinyapps[158385]: [[155]]
+2017-03-03T05:43:15.785149+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784981+00:00 shinyapps[158385]: [[152]]$sentiment
+2017-03-03T05:43:15.785003+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785100+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785346+00:00 shinyapps[158385]: [[161]]$sentiment
+2017-03-03T05:43:15.785347+00:00 shinyapps[158385]: [1] -0.5106
+2017-03-03T05:43:15.785397+00:00 shinyapps[158385]: [[162]]$document
+2017-03-03T05:43:15.785430+00:00 shinyapps[158385]: [1] "hitler did one thing right when he came  power he rounded up all  amp communist amp then killed them all "
+2017-03-03T05:43:15.785202+00:00 shinyapps[158385]: [[157]]
+2017-03-03T05:43:15.785202+00:00 shinyapps[158385]: [[157]]$sentiment
+2017-03-03T05:43:15.784979+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785008+00:00 shinyapps[158385]: [[153]]$document
+2017-03-03T05:43:15.785050+00:00 shinyapps[158385]: [[154]]$document
+2017-03-03T05:43:15.785150+00:00 shinyapps[158385]: [[156]]$sentiment
+2017-03-03T05:43:15.784981+00:00 shinyapps[158385]: [[152]]
+2017-03-03T05:43:15.785041+00:00 shinyapps[158385]: [1] "report obama officials spent final days purposely pushing russia allegations  america trump  via "
+2017-03-03T05:43:15.785309+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785309+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785099+00:00 shinyapps[158385]: [1] "if liberals had it their way america would lose its power in the world amp have zero financial structure brainless maga americanspirit"
+2017-03-03T05:43:15.785156+00:00 shinyapps[158385]: [1] 0.6249
+2017-03-03T05:43:15.784996+00:00 shinyapps[158385]: [1] "while china seeks reforms america approves corporate corruption amp fraud "
+2017-03-03T05:43:15.785042+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785110+00:00 shinyapps[158385]: [1] 0.3182
+2017-03-03T05:43:15.785157+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785225+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784983+00:00 shinyapps[158385]: [[152]]$document
+2017-03-03T05:43:15.785042+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785107+00:00 shinyapps[158385]: [[155]]$sentiment
+2017-03-03T05:43:15.785157+00:00 shinyapps[158385]: [[156]]$document
+2017-03-03T05:43:15.785225+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784997+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785042+00:00 shinyapps[158385]: [[154]]
+2017-03-03T05:43:15.785111+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785201+00:00 shinyapps[158385]: [1] "great droopys sleepy cousin gets pushed thru his confirmation cant wait to see what he wont do for america amp "
+2017-03-03T05:43:15.785226+00:00 shinyapps[158385]: [[158]]
+2017-03-03T05:43:15.784828+00:00 shinyapps[158385]: [[149]]
+2017-03-03T05:43:15.785043+00:00 shinyapps[158385]: [[154]]$sentiment
+2017-03-03T05:43:15.785116+00:00 shinyapps[158385]: [[155]]$document
+2017-03-03T05:43:15.785201+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785226+00:00 shinyapps[158385]: [[158]]$sentiment
+2017-03-03T05:43:15.784829+00:00 shinyapps[158385]: [[149]]$sentiment
+2017-03-03T05:43:15.784886+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.784972+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785202+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785246+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.784887+00:00 shinyapps[158385]: [[150]]$document
+2017-03-03T05:43:15.784982+00:00 shinyapps[158385]: [1] -0.2732
+2017-03-03T05:43:15.785002+00:00 shinyapps[158385]: [[153]]$sentiment
+2017-03-03T05:43:15.785100+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785208+00:00 shinyapps[158385]: [[157]]$document
+2017-03-03T05:43:15.785308+00:00 shinyapps[158385]: [1] "will you get rich in corporate america\n\nwealthy america "
+2017-03-03T05:43:15.785513+00:00 shinyapps[158385]: [1] -0.2263
+2017-03-03T05:43:15.785513+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785314+00:00 shinyapps[158385]: [[160]]$sentiment
+2017-03-03T05:43:15.785224+00:00 shinyapps[158385]: [1] "the  best sandwich shops in america atlantas  via  "
+2017-03-03T05:43:15.785315+00:00 shinyapps[158385]: [1] 0.5267
+2017-03-03T05:43:15.785391+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785267+00:00 shinyapps[158385]: [[159]]$sentiment
+2017-03-03T05:43:15.785315+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785385+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785262+00:00 shinyapps[158385]: [[159]]
+2017-03-03T05:43:15.785319+00:00 shinyapps[158385]: [[160]]$document
+2017-03-03T05:43:15.785384+00:00 shinyapps[158385]: [1] " so how about those tax returns you said i could see them liar resisttrump trump america alternativefacts"
+2017-03-03T05:43:15.785275+00:00 shinyapps[158385]: [1] 0.7269
+2017-03-03T05:43:15.785340+00:00 shinyapps[158385]: [1] "america xxx sexy image sex exercises for women "
+2017-03-03T05:43:15.785385+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785275+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785341+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785386+00:00 shinyapps[158385]: [[162]]
+2017-03-03T05:43:15.785282+00:00 shinyapps[158385]: [[159]]$document
+2017-03-03T05:43:15.785341+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785390+00:00 shinyapps[158385]: [[162]]$sentiment
+2017-03-03T05:43:15.785488+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785488+00:00 shinyapps[158385]: [[164]]
+2017-03-03T05:43:15.785261+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785342+00:00 shinyapps[158385]: [[161]]
+2017-03-03T05:43:15.785208+00:00 shinyapps[158385]: [1] 0.6369
+2017-03-03T05:43:15.785262+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785583+00:00 shinyapps[158385]: [1] " russia is not an enemy of americaeven if you competeit can be a friendly competition"
+2017-03-03T05:43:15.785584+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785150+00:00 shinyapps[158385]: [[156]]
+2017-03-03T05:43:15.785208+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785260+00:00 shinyapps[158385]: [1] " why cause america amp agjeffsessions the law vs soros judgerobart democrats antifa islam "
+2017-03-03T05:43:15.785436+00:00 shinyapps[158385]: [[163]]$sentiment
+2017-03-03T05:43:15.785431+00:00 shinyapps[158385]: [[163]]
+2017-03-03T05:43:15.785442+00:00 shinyapps[158385]: [1] -0.4767
+2017-03-03T05:43:15.785442+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785462+00:00 shinyapps[158385]: [[163]]$document
+2017-03-03T05:43:15.785391+00:00 shinyapps[158385]: [1] -0.6705
+2017-03-03T05:43:15.785643+00:00 shinyapps[158385]: [[168]]
+2017-03-03T05:43:15.785648+00:00 shinyapps[158385]: [[168]]$sentiment
+2017-03-03T05:43:15.785309+00:00 shinyapps[158385]: [[160]]
+2017-03-03T05:43:15.785347+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785351+00:00 shinyapps[158385]: [[161]]$document
+2017-03-03T05:43:15.785496+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785759+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785760+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785794+00:00 shinyapps[158385]: [[172]]$sentiment
+2017-03-03T05:43:15.785805+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.785689+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785690+00:00 shinyapps[158385]: [[169]]$document
+2017-03-03T05:43:15.785495+00:00 shinyapps[158385]: [1] 0.6249
+2017-03-03T05:43:15.785544+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785499+00:00 shinyapps[158385]: [[164]]$document
+2017-03-03T05:43:15.785545+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785591+00:00 shinyapps[158385]: [[167]]$sentiment
+2017-03-03T05:43:15.785504+00:00 shinyapps[158385]: [1] "awesome  america "
+2017-03-03T05:43:15.785545+00:00 shinyapps[158385]: [[166]]
+2017-03-03T05:43:15.785591+00:00 shinyapps[158385]: [1] -0.5423
+2017-03-03T05:43:15.785504+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785549+00:00 shinyapps[158385]: [[166]]$sentiment
+2017-03-03T05:43:15.785592+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785487+00:00 shinyapps[158385]: [1] "alecbaldwin and kurtandersen are writing a trump book together sad america  "
+2017-03-03T05:43:15.785550+00:00 shinyapps[158385]: [1] 0.7227
+2017-03-03T05:43:15.785643+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785488+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785495+00:00 shinyapps[158385]: [[164]]$sentiment
+2017-03-03T05:43:15.785550+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785508+00:00 shinyapps[158385]: [[165]]$sentiment
+2017-03-03T05:43:15.785555+00:00 shinyapps[158385]: [[166]]$document
+2017-03-03T05:43:15.785643+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785431+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785504+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785592+00:00 shinyapps[158385]: [[167]]$document
+2017-03-03T05:43:15.785431+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785505+00:00 shinyapps[158385]: [[165]]
+2017-03-03T05:43:15.785517+00:00 shinyapps[158385]: [[165]]$document
+2017-03-03T05:43:15.785649+00:00 shinyapps[158385]: [[168]]$document
+2017-03-03T05:43:15.785928+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785928+00:00 shinyapps[158385]: [[175]]
+2017-03-03T05:43:15.785987+00:00 shinyapps[158385]: [1] -0.6249
+2017-03-03T05:43:15.785987+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785720+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785765+00:00 shinyapps[158385]: [[171]]$sentiment
+2017-03-03T05:43:15.785682+00:00 shinyapps[158385]: [1] "the collapse of retail chains is leaving americas shopping malls empty   "
+2017-03-03T05:43:15.785721+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785765+00:00 shinyapps[158385]: [1] -0.4215
+2017-03-03T05:43:15.786081+00:00 shinyapps[158385]: [1] "we must debate but lets stop the hate this country isnt black or white day or night its america the greatest country in the world"
+2017-03-03T05:43:15.786082+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786129+00:00 shinyapps[158385]: [[179]]
+2017-03-03T05:43:15.786133+00:00 shinyapps[158385]: [[179]]$sentiment
+2017-03-03T05:43:15.785683+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785721+00:00 shinyapps[158385]: [[170]]
+2017-03-03T05:43:15.785766+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785829+00:00 shinyapps[158385]: [1] "this americanadministration will turn america into rubble not maga "
+2017-03-03T05:43:15.785885+00:00 shinyapps[158385]: [[174]]
+2017-03-03T05:43:15.785689+00:00 shinyapps[158385]: [1] -0.6124
+2017-03-03T05:43:15.785726+00:00 shinyapps[158385]: [[170]]$sentiment
+2017-03-03T05:43:15.785779+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785830+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785891+00:00 shinyapps[158385]: [[174]]$document
+2017-03-03T05:43:15.785641+00:00 shinyapps[158385]: [1] " once youre traitors ass is out were gonna make america immigrantaf again     putin pussy"
+2017-03-03T05:43:15.785726+00:00 shinyapps[158385]: [1] -0.4404
+2017-03-03T05:43:15.785792+00:00 shinyapps[158385]: [[172]]
+2017-03-03T05:43:15.785831+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785927+00:00 shinyapps[158385]: [1] "trumps america florida mosque was deliberately torched  investigators confirm\n\nus islamophobia racism\n"
+2017-03-03T05:43:15.785688+00:00 shinyapps[158385]: [[169]]$sentiment
+2017-03-03T05:43:15.785727+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785779+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785831+00:00 shinyapps[158385]: [[173]]
+2017-03-03T05:43:15.785890+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785683+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785727+00:00 shinyapps[158385]: [[170]]$document
+2017-03-03T05:43:15.785766+00:00 shinyapps[158385]: [[171]]$document
+2017-03-03T05:43:15.785836+00:00 shinyapps[158385]: [[173]]$sentiment
+2017-03-03T05:43:15.785889+00:00 shinyapps[158385]: [[174]]$sentiment
+2017-03-03T05:43:15.785684+00:00 shinyapps[158385]: [[169]]
+2017-03-03T05:43:15.785759+00:00 shinyapps[158385]: [1] "  hire muslims discriminate veteranwives denied employment  judymartin america "
+2017-03-03T05:43:15.785778+00:00 shinyapps[158385]: [1] "america girls erotical night cheats "
+2017-03-03T05:43:15.785837+00:00 shinyapps[158385]: [1] -0.1779
+2017-03-03T05:43:15.785890+00:00 shinyapps[158385]: [1] -0.6249
+2017-03-03T05:43:15.785837+00:00 shinyapps[158385]: [[173]]$document
+2017-03-03T05:43:15.785883+00:00 shinyapps[158385]: [1] "how the hell can anyone trust a  who says i think he probably did about sessions telling the truth are you joking america dump"
+2017-03-03T05:43:15.785585+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785649+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785760+00:00 shinyapps[158385]: [[171]]
+2017-03-03T05:43:15.785837+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785543+00:00 shinyapps[158385]: [1] " s america  \n racism to women  well done usa  well done  u r gre "
+2017-03-03T05:43:15.785585+00:00 shinyapps[158385]: [[167]]
+2017-03-03T05:43:15.785649+00:00 shinyapps[158385]: [1] -0.6124
+2017-03-03T05:43:15.785719+00:00 shinyapps[158385]: [1] "the collapse of retail chains is leaving americas shopping malls empty  "
+2017-03-03T05:43:15.785928+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786195+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786196+00:00 shinyapps[158385]: [[180]]$document
+2017-03-03T05:43:15.786261+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786262+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785934+00:00 shinyapps[158385]: [1] 0.4404
+2017-03-03T05:43:15.785981+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786032+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786088+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785981+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786033+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786089+00:00 shinyapps[158385]: [[178]]$document
+2017-03-03T05:43:15.785980+00:00 shinyapps[158385]: [1] "communistinfiltration is destroying america may god bless amp protect youmr attorney general sessions maga "
+2017-03-03T05:43:15.786033+00:00 shinyapps[158385]: [[177]]
+2017-03-03T05:43:15.786088+00:00 shinyapps[158385]: [1] 0.8225
+2017-03-03T05:43:15.785934+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786038+00:00 shinyapps[158385]: [[177]]$sentiment
+2017-03-03T05:43:15.786317+00:00 shinyapps[158385]: [[183]]$sentiment
+2017-03-03T05:43:15.786317+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.785934+00:00 shinyapps[158385]: [[175]]$document
+2017-03-03T05:43:15.786038+00:00 shinyapps[158385]: [1] -0.2617
+2017-03-03T05:43:15.786087+00:00 shinyapps[158385]: [[178]]$sentiment
+2017-03-03T05:43:15.785986+00:00 shinyapps[158385]: [[176]]$sentiment
+2017-03-03T05:43:15.786039+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786128+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785982+00:00 shinyapps[158385]: [[176]]
+2017-03-03T05:43:15.786039+00:00 shinyapps[158385]: [[177]]$document
+2017-03-03T05:43:15.786127+00:00 shinyapps[158385]: [1] "america those whom revere our constitution amp understand wut freedom amp liberty means research articlev amp the "
+2017-03-03T05:43:15.785806+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785884+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786128+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785807+00:00 shinyapps[158385]: [[172]]$document
+2017-03-03T05:43:15.785884+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.785933+00:00 shinyapps[158385]: [[175]]$sentiment
+2017-03-03T05:43:15.786189+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829753+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829753+00:00 shinyapps[158385]: [[3]]
+2017-03-03T05:43:15.786237+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786275+00:00 shinyapps[158385]: [[182]]$document
+2017-03-03T05:43:15.786187+00:00 shinyapps[158385]: [1] "not only do breweries around america produce the beer we love they make kickass areas to  "
+2017-03-03T05:43:15.786237+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786275+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.829909+00:00 shinyapps[158385]: [1] "animals this is what  are fighting so hard to keep in america why would we want this in our country "
+2017-03-03T05:43:15.829910+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829658+00:00 shinyapps[158385]: [[1]]$document
+2017-03-03T05:43:15.829704+00:00 shinyapps[158385]: [1] "  i apologize to you both for any harsh criticism  did in fact help the owensfamily and america that night"
+2017-03-03T05:43:15.786134+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786238+00:00 shinyapps[158385]: [[181]]
+2017-03-03T05:43:15.786262+00:00 shinyapps[158385]: [[182]]
+2017-03-03T05:43:15.786145+00:00 shinyapps[158385]: [[179]]$document
+2017-03-03T05:43:15.786238+00:00 shinyapps[158385]: [[181]]$sentiment
+2017-03-03T05:43:15.829805+00:00 shinyapps[158385]: [1] 0.8319
+2017-03-03T05:43:15.829805+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786273+00:00 shinyapps[158385]: [[182]]$sentiment
+2017-03-03T05:43:15.786195+00:00 shinyapps[158385]: [[180]]$sentiment
+2017-03-03T05:43:15.786243+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.786311+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786353+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786189+00:00 shinyapps[158385]: [[180]]
+2017-03-03T05:43:15.786243+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786310+00:00 shinyapps[158385]: [1] " mosques in the us receive letters calling for the genocide of americas muslims\n\ntrump islamophobia resist \n"
+2017-03-03T05:43:15.829644+00:00 shinyapps[158385]: [[1]]
+2017-03-03T05:43:15.786195+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.786244+00:00 shinyapps[158385]: [[181]]$document
+2017-03-03T05:43:15.786311+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829656+00:00 shinyapps[158385]: [[1]]$sentiment
+2017-03-03T05:43:15.785991+00:00 shinyapps[158385]: [[176]]$document
+2017-03-03T05:43:15.786260+00:00 shinyapps[158385]: [1] " america lets troll this motherfuckers base buy one here  immigrantaf "
+2017-03-03T05:43:15.786312+00:00 shinyapps[158385]: [[183]]
+2017-03-03T05:43:15.829657+00:00 shinyapps[158385]: [1] -0.4019
+2017-03-03T05:43:15.786031+00:00 shinyapps[158385]: [1] "four us mosques have been torched by arsonists since trump took office\n\nresist islamophobia racism america \n"
+2017-03-03T05:43:15.786082+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786134+00:00 shinyapps[158385]: [1] 0.6369
+2017-03-03T05:43:15.829657+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786083+00:00 shinyapps[158385]: [[178]]
+2017-03-03T05:43:15.786188+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786236+00:00 shinyapps[158385]: [1] " will use the dem getting all wee weed up about russia and now off message to get more stuff done for the america ppl\nmaga"
+2017-03-03T05:43:15.786275+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786352+00:00 shinyapps[158385]: [1] "america naked avatar naga porn comics "
+2017-03-03T05:43:15.829988+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829996+00:00 shinyapps[158385]: [[8]]$document
+2017-03-03T05:43:15.829761+00:00 shinyapps[158385]: [1] 0.3182
+2017-03-03T05:43:15.829871+00:00 shinyapps[158385]: [[5]]$document
+2017-03-03T05:43:15.829910+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786353+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829705+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829761+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830138+00:00 shinyapps[158385]: [[11]]$sentiment
+2017-03-03T05:43:15.830139+00:00 shinyapps[158385]: [1] 0.4588
+2017-03-03T05:43:15.829911+00:00 shinyapps[158385]: [[6]]
+2017-03-03T05:43:15.829716+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829761+00:00 shinyapps[158385]: [[3]]$document
+2017-03-03T05:43:15.829858+00:00 shinyapps[158385]: [[5]]
+2017-03-03T05:43:15.829911+00:00 shinyapps[158385]: [[6]]$sentiment
+2017-03-03T05:43:15.829981+00:00 shinyapps[158385]: [1] "chart from statista which shows how smartphone buyers across america amp europe are holding onto their phones f "
+2017-03-03T05:43:15.829715+00:00 shinyapps[158385]: [1] 0.2023
+2017-03-03T05:43:15.829798+00:00 shinyapps[158385]: [1] " please remove wapo from whno use talkingthemtheyre a bunch of traitors used by russia to divideweaken america"
+2017-03-03T05:43:15.829858+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829927+00:00 shinyapps[158385]: [1] 0.34
+2017-03-03T05:43:15.829945+00:00 shinyapps[158385]: [[7]]$document
+2017-03-03T05:43:15.829716+00:00 shinyapps[158385]: [[2]]$document
+2017-03-03T05:43:15.829799+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829869+00:00 shinyapps[158385]: [[5]]$sentiment
+2017-03-03T05:43:15.829928+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829982+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829752+00:00 shinyapps[158385]: [1] " hey just wanna say thanks for turning my country into the equivalent of a low rent trailer park america"
+2017-03-03T05:43:15.829799+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829870+00:00 shinyapps[158385]: [1] -0.4707
+2017-03-03T05:43:15.829929+00:00 shinyapps[158385]: [[6]]$document
+2017-03-03T05:43:15.829982+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829753+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829800+00:00 shinyapps[158385]: [[4]]
+2017-03-03T05:43:15.829870+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829934+00:00 shinyapps[158385]: [1] "bitcoin value overtakes gold for first time  australia business news america china  "
+2017-03-03T05:43:15.829982+00:00 shinyapps[158385]: [[8]]
+2017-03-03T05:43:15.829705+00:00 shinyapps[158385]: [[2]]
+2017-03-03T05:43:15.829805+00:00 shinyapps[158385]: [[4]]$sentiment
+2017-03-03T05:43:15.830080+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830080+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829857+00:00 shinyapps[158385]: [1] "this st  days not exposing potus campaign but an america at the mercy of rogue intel agencies loyal to their "
+2017-03-03T05:43:15.829934+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.786317+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829714+00:00 shinyapps[158385]: [[2]]$sentiment
+2017-03-03T05:43:15.829858+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829934+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830178+00:00 shinyapps[158385]: [[12]]$document
+2017-03-03T05:43:15.830221+00:00 shinyapps[158385]: [1] "  so disheartening america is broken the president cannot be bothered to heal"
+2017-03-03T05:43:15.829935+00:00 shinyapps[158385]: [[7]]
+2017-03-03T05:43:15.829941+00:00 shinyapps[158385]: [[7]]$sentiment
+2017-03-03T05:43:15.786321+00:00 shinyapps[158385]: [[183]]$document
+2017-03-03T05:43:15.829705+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829760+00:00 shinyapps[158385]: [[3]]$sentiment
+2017-03-03T05:43:15.829806+00:00 shinyapps[158385]: [[4]]$document
+2017-03-03T05:43:15.830039+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830313+00:00 shinyapps[158385]: [1] 0.4588
+2017-03-03T05:43:15.830313+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830085+00:00 shinyapps[158385]: [[10]]$sentiment
+2017-03-03T05:43:15.830139+00:00 shinyapps[158385]: [[11]]$document
+2017-03-03T05:43:15.830222+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830262+00:00 shinyapps[158385]: [[14]]$sentiment
+2017-03-03T05:43:15.830257+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830257+00:00 shinyapps[158385]: [[14]]
+2017-03-03T05:43:15.830039+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830086+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.830139+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830222+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830314+00:00 shinyapps[158385]: [[15]]$document
+2017-03-03T05:43:15.830040+00:00 shinyapps[158385]: [[9]]
+2017-03-03T05:43:15.830086+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830167+00:00 shinyapps[158385]: [1] "roses are green columbines are antiquewhite sugar is sweet and so on  america"
+2017-03-03T05:43:15.830223+00:00 shinyapps[158385]: [[13]]
+2017-03-03T05:43:15.830262+00:00 shinyapps[158385]: [1] -0.0258
+2017-03-03T05:43:15.830340+00:00 shinyapps[158385]: [1] "lots of work still to be done to welcome folks to america openhearts opendoors "
+2017-03-03T05:43:15.830046+00:00 shinyapps[158385]: [[9]]$sentiment
+2017-03-03T05:43:15.830086+00:00 shinyapps[158385]: [[10]]$document
+2017-03-03T05:43:15.830168+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830227+00:00 shinyapps[158385]: [[13]]$sentiment
+2017-03-03T05:43:15.830263+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830341+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830046+00:00 shinyapps[158385]: [1] 0.8047
+2017-03-03T05:43:15.830127+00:00 shinyapps[158385]: [1] "do u believe the crack in foundation of federal hall on  reveals a  crack in the foundation of america more "
+2017-03-03T05:43:15.830168+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830228+00:00 shinyapps[158385]: [1] 0.0772
+2017-03-03T05:43:15.830263+00:00 shinyapps[158385]: [[14]]$document
+2017-03-03T05:43:15.830342+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.829987+00:00 shinyapps[158385]: [[8]]$sentiment
+2017-03-03T05:43:15.830128+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830174+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830228+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830303+00:00 shinyapps[158385]: [[15]]
+2017-03-03T05:43:15.896236+00:00 shinyapps[158385]: [1] -0.6124
+2017-03-03T05:43:15.829987+00:00 shinyapps[158385]: [1] 0.8519
+2017-03-03T05:43:15.830038+00:00 shinyapps[158385]: [1] "interesting notion america allows free speech  does not why would anyone who is free be allowed"
+2017-03-03T05:43:15.830129+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830229+00:00 shinyapps[158385]: [[13]]$document
+2017-03-03T05:43:15.830312+00:00 shinyapps[158385]: [[15]]$sentiment
+2017-03-03T05:43:15.896291+00:00 shinyapps[158385]: [1] -0.4404
+2017-03-03T05:43:15.830079+00:00 shinyapps[158385]: [1] "america may allow freespeech but american businesses like  definitely do not"
+2017-03-03T05:43:15.830129+00:00 shinyapps[158385]: [[11]]
+2017-03-03T05:43:15.830174+00:00 shinyapps[158385]: [1] -0.6406
+2017-03-03T05:43:15.830256+00:00 shinyapps[158385]: [1] "americas war on sex nude rock of love bus "
+2017-03-03T05:43:15.830303+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.896333+00:00 shinyapps[158385]: [1] -0.4215
+2017-03-03T05:43:15.829941+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.830046+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830169+00:00 shinyapps[158385]: [[12]]
+2017-03-03T05:43:15.830257+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830301+00:00 shinyapps[158385]: [1] "in a new book the complacent class economist tyler cowen argues that the united states is standing still america "
+2017-03-03T05:43:15.896378+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.829942+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.830050+00:00 shinyapps[158385]: [[9]]$document
+2017-03-03T05:43:15.830080+00:00 shinyapps[158385]: [[10]]
+2017-03-03T05:43:15.830173+00:00 shinyapps[158385]: [[12]]$sentiment
+2017-03-03T05:43:15.830302+00:00 shinyapps[158385]: 
+2017-03-03T05:43:15.896438+00:00 shinyapps[158385]: [1] -0.1779
+2017-03-03T05:43:15.896696+00:00 shinyapps[158385]: [1] 0.6369
+2017-03-03T05:43:15.896489+00:00 shinyapps[158385]: [1] -0.6249
+2017-03-03T05:43:15.896883+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.896925+00:00 shinyapps[158385]: [1] -0.6249
+2017-03-03T05:43:15.896548+00:00 shinyapps[158385]: [1] 0.4404
+2017-03-03T05:43:15.896970+00:00 shinyapps[158385]: [1] -0.4939
+2017-03-03T05:43:15.896586+00:00 shinyapps[158385]: [1] -0.6249
+2017-03-03T05:43:15.896636+00:00 shinyapps[158385]: [1] -0.2617
+2017-03-03T05:43:15.896782+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.896822+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.896740+00:00 shinyapps[158385]: [1] 0
+2017-03-03T05:43:15.896677+00:00 shinyapps[158385]: [1] 0.8225
+2017-03-03T06:14:15.519262+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-03T06:14:15.756700+00:00 shinyapps[158385]: 
+2017-03-03T06:14:15.519307+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-03T06:14:15.519310+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-03T06:14:15.519312+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-03T06:14:15.751332+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-03T06:14:15.519313+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-03T06:14:15.519313+00:00 shinyapps[158385]: knitr version: NA
+2017-03-03T06:14:15.756701+00:00 shinyapps[158385]: Starting R with process ID: '17'
+2017-03-03T06:14:15.519313+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-03T06:14:15.519341+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-03T06:14:15.519342+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-03T06:14:15.774403+00:00 shinyapps[158385]: 
+2017-03-03T06:14:15.774405+00:00 shinyapps[158385]: Listening on http://0.0.0.0:56693
+2017-03-03T08:12:44.607529+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-03T08:12:44.607569+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-03T08:12:44.607574+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-03T08:12:44.607578+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-03T08:12:44.607579+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-03T08:12:44.607579+00:00 shinyapps[158385]: knitr version: NA
+2017-03-03T08:12:44.607582+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-03T08:12:44.607601+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-03T08:12:44.607617+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-03T08:12:44.752749+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-03T08:12:44.757828+00:00 shinyapps[158385]: Starting R with process ID: '19'
+2017-03-03T08:12:44.773002+00:00 shinyapps[158385]: Listening on http://0.0.0.0:47926
+2017-03-03T08:12:44.772999+00:00 shinyapps[158385]: 
+2017-03-03T08:12:44.757825+00:00 shinyapps[158385]: 
+2017-03-03T08:12:57.004250+00:00 shinyapps[158385]: Loading required package: RColorBrewer
+2017-03-03T08:12:57.035370+00:00 shinyapps[158385]: Loading required package: NLP
+2017-03-03T08:12:57.130659+00:00 shinyapps[158385]: [1] "Required Libraries Loaded"
+2017-03-03T08:12:57.131946+00:00 shinyapps[158385]: Read 2006 items
+2017-03-03T08:12:57.134480+00:00 shinyapps[158385]: Read 4783 items
+2017-03-03T08:12:57.134583+00:00 shinyapps[158385]: [1] "Files Loaded"
+2017-03-03T08:12:57.134742+00:00 shinyapps[158385]: [1] "Using direct authentication"
+2017-03-03T08:12:57.237969+00:00 shinyapps[158385]: [1] "Connection Established"
+2017-03-03T08:13:04.163808+00:00 shinyapps[158385]: [[1]]
+2017-03-03T08:13:04.163812+00:00 shinyapps[158385]: [[1]]$sentiment
+2017-03-03T08:13:04.163832+00:00 shinyapps[158385]: [1] 0.4767
+2017-03-03T08:13:04.163833+00:00 shinyapps[158385]: 
+2017-03-03T08:13:04.163834+00:00 shinyapps[158385]: [[1]]$document
+2017-03-03T08:13:04.163835+00:00 shinyapps[158385]: [1] "bsnl team on last day  mwc exploring alliances with  interacting with  amp experiencing g valuable "
+2017-03-03T08:13:04.163835+00:00 shinyapps[158385]: 
+2017-03-03T08:13:04.185141+00:00 shinyapps[158385]: Warning: Error in getResponse: Algorithm error: Account doesn't have any remaining credits
+2017-03-03T08:13:04.190705+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-03T08:13:04.190706+00:00 shinyapps[158385]:     81: getResponse
+2017-03-03T08:13:04.190707+00:00 shinyapps[158385]:     80: algo$pipe
+2017-03-03T08:13:04.190708+00:00 shinyapps[158385]:     79: generate.opinion [/srv/connect/apps/opinion_analysis/app.R#61]
+2017-03-03T08:13:04.190709+00:00 shinyapps[158385]:     78: opinion.mining [/srv/connect/apps/opinion_analysis/app.R#6]
+2017-03-03T08:13:04.190709+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#159]
+2017-03-03T08:13:04.190710+00:00 shinyapps[158385]:     13: runApp
+2017-03-03T08:13:04.190710+00:00 shinyapps[158385]:     12: fn
+2017-03-03T08:13:04.190711+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-03T08:13:04.190712+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-03T08:13:04.190712+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-03T08:13:04.163836+00:00 shinyapps[158385]: 
+2017-03-03T08:13:04.190713+00:00 shinyapps[158385]:      6: eval
+2017-03-03T08:13:04.190713+00:00 shinyapps[158385]:      5: eval
+2017-03-03T08:13:04.190711+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-03T08:13:04.190714+00:00 shinyapps[158385]:      3: eval
+2017-03-03T08:13:04.190714+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-03T08:13:04.190710+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-03T08:13:04.190714+00:00 shinyapps[158385]:      4: eval
+2017-03-03T08:13:04.190715+00:00 shinyapps[158385]:      1: local
+2017-03-03T08:14:02.454940+00:00 shinyapps[158385]: [1] "Required Libraries Loaded"
+2017-03-03T08:14:02.456681+00:00 shinyapps[158385]: Read 2006 items
+2017-03-03T08:14:02.460195+00:00 shinyapps[158385]: Read 4783 items
+2017-03-03T08:14:02.460265+00:00 shinyapps[158385]: [1] "Files Loaded"
+2017-03-03T08:14:02.460328+00:00 shinyapps[158385]: [1] "Using direct authentication"
+2017-03-03T08:14:02.499672+00:00 shinyapps[158385]: [1] "Connection Established"
+2017-03-03T08:14:07.858083+00:00 shinyapps[158385]: Warning: Error in getResponse: Algorithm error: Account doesn't have any remaining credits
+2017-03-03T08:14:07.862355+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-03T08:14:07.862357+00:00 shinyapps[158385]:     81: getResponse
+2017-03-03T08:14:07.862358+00:00 shinyapps[158385]:     80: algo$pipe
+2017-03-03T08:14:07.862358+00:00 shinyapps[158385]:     79: generate.opinion [/srv/connect/apps/opinion_analysis/app.R#61]
+2017-03-03T08:14:07.862359+00:00 shinyapps[158385]:     78: opinion.mining [/srv/connect/apps/opinion_analysis/app.R#6]
+2017-03-03T08:14:07.862360+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#159]
+2017-03-03T08:14:07.862360+00:00 shinyapps[158385]:     12: fn
+2017-03-03T08:14:07.862361+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-03T08:14:07.862362+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-03T08:14:07.862363+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-03T08:14:07.862363+00:00 shinyapps[158385]:      6: eval
+2017-03-03T08:14:07.862364+00:00 shinyapps[158385]:      4: eval
+2017-03-03T08:14:07.862364+00:00 shinyapps[158385]:      3: eval
+2017-03-03T08:14:07.862360+00:00 shinyapps[158385]:     13: runApp
+2017-03-03T08:14:07.862365+00:00 shinyapps[158385]:      1: local
+2017-03-03T08:14:07.862362+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-03T08:14:07.862362+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-03T08:14:07.862364+00:00 shinyapps[158385]:      5: eval
+2017-03-03T08:14:07.862365+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-03T08:14:18.745591+00:00 shinyapps[158385]: [1] "Required Libraries Loaded"
+2017-03-03T08:14:18.747312+00:00 shinyapps[158385]: Read 2006 items
+2017-03-03T08:14:18.750860+00:00 shinyapps[158385]: Read 4783 items
+2017-03-03T08:14:18.750935+00:00 shinyapps[158385]: [1] "Files Loaded"
+2017-03-03T08:14:18.750993+00:00 shinyapps[158385]: [1] "Using direct authentication"
+2017-03-03T08:14:18.789683+00:00 shinyapps[158385]: [1] "Connection Established"
+2017-03-03T08:14:24.029862+00:00 shinyapps[158385]: [[1]]
+2017-03-03T08:14:24.029883+00:00 shinyapps[158385]: [[1]]$sentiment
+2017-03-03T08:14:24.029884+00:00 shinyapps[158385]: [1] 0
+2017-03-03T08:14:24.029885+00:00 shinyapps[158385]: 
+2017-03-03T08:14:24.029885+00:00 shinyapps[158385]: [[1]]$document
+2017-03-03T08:14:24.029886+00:00 shinyapps[158385]: [1] "iam student of this country in one of the finest institutions and iam not afraid of abvp\nbanabvp  "
+2017-03-03T08:14:24.029887+00:00 shinyapps[158385]: 
+2017-03-03T08:14:24.029887+00:00 shinyapps[158385]: 
+2017-03-03T08:14:24.087208+00:00 shinyapps[158385]: Warning: Error in getResponse: Algorithm error: Account doesn't have any remaining credits
+2017-03-03T08:14:24.091488+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-03T08:14:24.091491+00:00 shinyapps[158385]:     80: algo$pipe
+2017-03-03T08:14:24.091491+00:00 shinyapps[158385]:     79: generate.opinion [/srv/connect/apps/opinion_analysis/app.R#61]
+2017-03-03T08:14:24.091492+00:00 shinyapps[158385]:     78: opinion.mining [/srv/connect/apps/opinion_analysis/app.R#6]
+2017-03-03T08:14:24.091492+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#159]
+2017-03-03T08:14:24.091493+00:00 shinyapps[158385]:     13: runApp
+2017-03-03T08:14:24.091493+00:00 shinyapps[158385]:     12: fn
+2017-03-03T08:14:24.091494+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-03T08:14:24.091495+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-03T08:14:24.091490+00:00 shinyapps[158385]:     81: getResponse
+2017-03-03T08:14:24.091494+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-03T08:14:24.091496+00:00 shinyapps[158385]:      5: eval
+2017-03-03T08:14:24.091497+00:00 shinyapps[158385]:      4: eval
+2017-03-03T08:14:24.091497+00:00 shinyapps[158385]:      3: eval
+2017-03-03T08:14:24.091497+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-03T08:14:24.091498+00:00 shinyapps[158385]:      1: local
+2017-03-03T08:14:24.091496+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-03T08:14:24.091495+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-03T08:14:24.091496+00:00 shinyapps[158385]:      6: eval
+2017-03-03T08:14:42.364046+00:00 shinyapps[158385]: [1] "Required Libraries Loaded"
+2017-03-03T08:14:42.365595+00:00 shinyapps[158385]: Read 2006 items
+2017-03-03T08:14:42.368823+00:00 shinyapps[158385]: Read 4783 items
+2017-03-03T08:14:42.368896+00:00 shinyapps[158385]: [1] "Files Loaded"
+2017-03-03T08:14:42.368971+00:00 shinyapps[158385]: [1] "Using direct authentication"
+2017-03-03T08:14:42.407561+00:00 shinyapps[158385]: [1] "Connection Established"
+2017-03-03T08:14:47.644287+00:00 shinyapps[158385]: Warning: Error in getResponse: Algorithm error: Account doesn't have any remaining credits
+2017-03-03T08:14:47.648812+00:00 shinyapps[158385]:      5: eval
+2017-03-03T08:14:47.648785+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-03T08:14:47.648790+00:00 shinyapps[158385]:     12: fn
+2017-03-03T08:14:47.648813+00:00 shinyapps[158385]:      1: local
+2017-03-03T08:14:47.648786+00:00 shinyapps[158385]:     81: getResponse
+2017-03-03T08:14:47.648790+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-03T08:14:47.648812+00:00 shinyapps[158385]:      6: eval
+2017-03-03T08:14:47.648787+00:00 shinyapps[158385]:     80: algo$pipe
+2017-03-03T08:14:47.648788+00:00 shinyapps[158385]:     79: generate.opinion [/srv/connect/apps/opinion_analysis/app.R#61]
+2017-03-03T08:14:47.648811+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-03T08:14:47.648789+00:00 shinyapps[158385]:     78: opinion.mining [/srv/connect/apps/opinion_analysis/app.R#6]
+2017-03-03T08:14:47.648811+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-03T08:14:47.648789+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#159]
+2017-03-03T08:14:47.648812+00:00 shinyapps[158385]:      4: eval
+2017-03-03T08:14:47.648790+00:00 shinyapps[158385]:     13: runApp
+2017-03-03T08:14:47.648813+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-03T08:14:47.648810+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-03T08:14:47.648813+00:00 shinyapps[158385]:      3: eval
+2017-03-03T08:14:47.648810+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-03T08:15:52.132415+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-03T08:15:52.132466+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-03T08:15:52.132469+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-03T08:15:52.132494+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-03T08:15:52.132523+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-03T08:15:52.132551+00:00 shinyapps[158385]: knitr version: NA
+2017-03-03T08:15:52.132602+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-03T08:15:52.132643+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-03T08:15:52.132656+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-03T08:15:52.274621+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-03T08:15:52.279670+00:00 shinyapps[158385]: Starting R with process ID: '42'
+2017-03-03T08:15:52.294729+00:00 shinyapps[158385]: Listening on http://0.0.0.0:58868
+2017-03-03T08:15:52.294728+00:00 shinyapps[158385]: 
+2017-03-03T08:15:52.279669+00:00 shinyapps[158385]: 
+2017-03-03T08:16:46.544764+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-03T08:16:46.544816+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-03T08:16:46.544828+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-03T08:16:46.544831+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-03T08:16:46.544831+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-03T08:16:46.544831+00:00 shinyapps[158385]: knitr version: NA
+2017-03-03T08:16:46.544832+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-03T08:16:46.544857+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-03T08:16:46.741295+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-03T08:16:46.747251+00:00 shinyapps[158385]: 
+2017-03-03T08:16:46.747254+00:00 shinyapps[158385]: Starting R with process ID: '20'
+2017-03-03T08:16:46.764472+00:00 shinyapps[158385]: 
+2017-03-03T08:16:46.764477+00:00 shinyapps[158385]: Listening on http://0.0.0.0:56902
+2017-03-03T08:16:46.544857+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-03T08:17:02.147949+00:00 shinyapps[158385]: Loading required package: RColorBrewer
+2017-03-03T08:17:02.219709+00:00 shinyapps[158385]: Loading required package: NLP
+2017-03-03T08:17:02.359056+00:00 shinyapps[158385]: [1] "Required Libraries Loaded"
+2017-03-03T08:17:02.362098+00:00 shinyapps[158385]: Read 2006 items
+2017-03-03T08:17:02.366108+00:00 shinyapps[158385]: Read 4783 items
+2017-03-03T08:17:02.366203+00:00 shinyapps[158385]: [1] "Files Loaded"
+2017-03-03T08:17:02.366418+00:00 shinyapps[158385]: [1] "Using direct authentication"
+2017-03-03T08:17:02.509657+00:00 shinyapps[158385]: [1] "Connection Established"
+2017-03-03T08:17:08.138194+00:00 shinyapps[158385]: Warning: Error in getResponse: Algorithm error: Account doesn't have any remaining credits
+2017-03-03T08:17:08.143750+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-03T08:17:08.143751+00:00 shinyapps[158385]:     81: getResponse
+2017-03-03T08:17:08.143752+00:00 shinyapps[158385]:     80: algo$pipe
+2017-03-03T08:17:08.143753+00:00 shinyapps[158385]:     78: opinion.mining [/srv/connect/apps/opinion_analysis/app.R#6]
+2017-03-03T08:17:08.143754+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#159]
+2017-03-03T08:17:08.143757+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-03T08:17:08.143755+00:00 shinyapps[158385]:     12: fn
+2017-03-03T08:17:08.143759+00:00 shinyapps[158385]:      1: local
+2017-03-03T08:17:08.143755+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-03T08:17:08.143759+00:00 shinyapps[158385]:      3: eval
+2017-03-03T08:17:08.143756+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-03T08:17:08.143757+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-03T08:17:08.143757+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-03T08:17:08.143759+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-03T08:17:08.143758+00:00 shinyapps[158385]:      6: eval
+2017-03-03T08:17:08.143755+00:00 shinyapps[158385]:     13: runApp
+2017-03-03T08:17:08.143758+00:00 shinyapps[158385]:      5: eval
+2017-03-03T08:17:08.143753+00:00 shinyapps[158385]:     79: generate.opinion [/srv/connect/apps/opinion_analysis/app.R#61]
+2017-03-03T08:17:08.143758+00:00 shinyapps[158385]:      4: eval
+2017-03-03T08:17:23.812601+00:00 shinyapps[158385]: [1] "Required Libraries Loaded"
+2017-03-03T08:17:23.814389+00:00 shinyapps[158385]: Read 2006 items
+2017-03-03T08:17:23.817956+00:00 shinyapps[158385]: Read 4783 items
+2017-03-03T08:17:23.818038+00:00 shinyapps[158385]: [1] "Files Loaded"
+2017-03-03T08:17:23.818100+00:00 shinyapps[158385]: [1] "Using direct authentication"
+2017-03-03T08:17:23.854256+00:00 shinyapps[158385]: [1] "Connection Established"
+2017-03-03T08:17:30.195146+00:00 shinyapps[158385]: [[1]]
+2017-03-03T08:17:30.221014+00:00 shinyapps[158385]:     78: opinion.mining [/srv/connect/apps/opinion_analysis/app.R#6]
+2017-03-03T08:17:30.221018+00:00 shinyapps[158385]:      5: eval
+2017-03-03T08:17:30.221020+00:00 shinyapps[158385]:      1: local
+2017-03-03T08:17:30.195151+00:00 shinyapps[158385]: [[1]]$sentiment
+2017-03-03T08:17:30.221012+00:00 shinyapps[158385]:     81: getResponse
+2017-03-03T08:17:30.221019+00:00 shinyapps[158385]:      3: eval
+2017-03-03T08:17:30.195189+00:00 shinyapps[158385]: [1] 0
+2017-03-03T08:17:30.221013+00:00 shinyapps[158385]:     80: algo$pipe
+2017-03-03T08:17:30.221019+00:00 shinyapps[158385]:      4: eval
+2017-03-03T08:17:30.195191+00:00 shinyapps[158385]: 
+2017-03-03T08:17:30.216596+00:00 shinyapps[158385]: Warning: Error in getResponse: Algorithm error: Account doesn't have any remaining credits
+2017-03-03T08:17:30.221016+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-03T08:17:30.221019+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-03T08:17:30.195192+00:00 shinyapps[158385]: [[1]]$document
+2017-03-03T08:17:30.221016+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-03T08:17:30.195193+00:00 shinyapps[158385]: [1] "modi end of road for leeco in india chinese company lays off most of indian staff  india "
+2017-03-03T08:17:30.221014+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#159]
+2017-03-03T08:17:30.221018+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-03T08:17:30.195193+00:00 shinyapps[158385]: 
+2017-03-03T08:17:30.221015+00:00 shinyapps[158385]:     13: runApp
+2017-03-03T08:17:30.221018+00:00 shinyapps[158385]:      6: eval
+2017-03-03T08:17:30.195194+00:00 shinyapps[158385]: 
+2017-03-03T08:17:30.221015+00:00 shinyapps[158385]:     12: fn
+2017-03-03T08:17:30.221011+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-03T08:17:30.221017+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-03T08:17:30.221013+00:00 shinyapps[158385]:     79: generate.opinion [/srv/connect/apps/opinion_analysis/app.R#61]
+2017-03-03T08:17:30.221017+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-03T08:17:49.721136+00:00 shinyapps[158385]: [1] "Required Libraries Loaded"
+2017-03-03T08:17:49.722889+00:00 shinyapps[158385]: Read 2006 items
+2017-03-03T08:17:49.726468+00:00 shinyapps[158385]: Read 4783 items
+2017-03-03T08:17:49.726547+00:00 shinyapps[158385]: [1] "Files Loaded"
+2017-03-03T08:17:49.726606+00:00 shinyapps[158385]: [1] "Using direct authentication"
+2017-03-03T08:17:49.765728+00:00 shinyapps[158385]: [1] "Connection Established"
+2017-03-03T08:17:55.593059+00:00 shinyapps[158385]: Warning: Error in getResponse: Algorithm error: Account doesn't have any remaining credits
+2017-03-03T08:17:55.597492+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-03T08:17:55.597494+00:00 shinyapps[158385]:     81: getResponse
+2017-03-03T08:17:55.597495+00:00 shinyapps[158385]:     80: algo$pipe
+2017-03-03T08:17:55.597496+00:00 shinyapps[158385]:     79: generate.opinion [/srv/connect/apps/opinion_analysis/app.R#61]
+2017-03-03T08:17:55.597496+00:00 shinyapps[158385]:     78: opinion.mining [/srv/connect/apps/opinion_analysis/app.R#6]
+2017-03-03T08:17:55.597497+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#159]
+2017-03-03T08:17:55.597497+00:00 shinyapps[158385]:     13: runApp
+2017-03-03T08:17:55.597498+00:00 shinyapps[158385]:     12: fn
+2017-03-03T08:17:55.597498+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-03T08:17:55.597500+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-03T08:17:55.597500+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-03T08:17:55.597501+00:00 shinyapps[158385]:      6: eval
+2017-03-03T08:17:55.597499+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-03T08:17:55.597502+00:00 shinyapps[158385]:      3: eval
+2017-03-03T08:17:55.597502+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-03T08:17:55.597502+00:00 shinyapps[158385]:      1: local
+2017-03-03T08:17:55.597499+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-03T08:17:55.597501+00:00 shinyapps[158385]:      5: eval
+2017-03-03T08:17:55.597501+00:00 shinyapps[158385]:      4: eval
+2017-03-03T08:18:15.504620+00:00 shinyapps[158385]: [1] "Required Libraries Loaded"
+2017-03-03T08:18:15.506420+00:00 shinyapps[158385]: Read 2006 items
+2017-03-03T08:18:15.509991+00:00 shinyapps[158385]: Read 4783 items
+2017-03-03T08:18:15.510078+00:00 shinyapps[158385]: [1] "Files Loaded"
+2017-03-03T08:18:15.510143+00:00 shinyapps[158385]: [1] "Using direct authentication"
+2017-03-03T08:18:15.551369+00:00 shinyapps[158385]: [1] "Connection Established"
+2017-03-03T08:18:21.092620+00:00 shinyapps[158385]: Warning: Error in getResponse: Algorithm error: Account doesn't have any remaining credits
+2017-03-03T08:18:21.096996+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-03T08:18:21.096998+00:00 shinyapps[158385]:     81: getResponse
+2017-03-03T08:18:21.096998+00:00 shinyapps[158385]:     80: algo$pipe
+2017-03-03T08:18:21.096999+00:00 shinyapps[158385]:     79: generate.opinion [/srv/connect/apps/opinion_analysis/app.R#61]
+2017-03-03T08:18:21.097000+00:00 shinyapps[158385]:     78: opinion.mining [/srv/connect/apps/opinion_analysis/app.R#6]
+2017-03-03T08:18:21.097001+00:00 shinyapps[158385]:     13: runApp
+2017-03-03T08:18:21.097002+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-03T08:18:21.097003+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-03T08:18:21.097004+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-03T08:18:21.097004+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-03T08:18:21.097005+00:00 shinyapps[158385]:      4: eval
+2017-03-03T08:18:21.097000+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#159]
+2017-03-03T08:18:21.097002+00:00 shinyapps[158385]:     12: fn
+2017-03-03T08:18:21.097020+00:00 shinyapps[158385]:      1: local
+2017-03-03T08:18:21.097003+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-03T08:18:21.097005+00:00 shinyapps[158385]:      6: eval
+2017-03-03T08:18:21.097005+00:00 shinyapps[158385]:      5: eval
+2017-03-03T08:18:21.097020+00:00 shinyapps[158385]:      3: eval
+2017-03-03T08:18:21.097020+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-03T09:06:37.821756+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-03T09:06:37.821791+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-03T09:06:37.821793+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-03T09:06:37.821797+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-03T09:06:37.821807+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-03T09:06:37.821809+00:00 shinyapps[158385]: knitr version: NA
+2017-03-03T09:06:37.821829+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-03T09:06:37.821849+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-03T09:06:38.038296+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-03T09:06:38.043560+00:00 shinyapps[158385]: Starting R with process ID: '18'
+2017-03-03T09:06:38.062045+00:00 shinyapps[158385]: Listening on http://0.0.0.0:58034
+2017-03-03T09:06:38.062042+00:00 shinyapps[158385]: 
+2017-03-03T09:06:37.821865+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-03T09:06:38.043558+00:00 shinyapps[158385]: 
+2017-03-03T09:06:45.777958+00:00 shinyapps[158385]: Loading required package: RColorBrewer
+2017-03-03T09:06:45.842288+00:00 shinyapps[158385]: Loading required package: NLP
+2017-03-03T09:06:45.969429+00:00 shinyapps[158385]: [1] "Required Libraries Loaded"
+2017-03-03T09:06:45.971686+00:00 shinyapps[158385]: Read 2006 items
+2017-03-03T09:06:45.975276+00:00 shinyapps[158385]: Read 4783 items
+2017-03-03T09:06:45.975371+00:00 shinyapps[158385]: [1] "Files Loaded"
+2017-03-03T09:06:45.975557+00:00 shinyapps[158385]: [1] "Using direct authentication"
+2017-03-03T09:06:46.107479+00:00 shinyapps[158385]: [1] "Connection Established"
+2017-03-03T09:06:51.557292+00:00 shinyapps[158385]: Warning: Error in getResponse: Algorithm error: Account doesn't have any remaining credits
+2017-03-03T09:06:51.562616+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-03T09:06:51.562618+00:00 shinyapps[158385]:     81: getResponse
+2017-03-03T09:06:51.562618+00:00 shinyapps[158385]:     80: algo$pipe
+2017-03-03T09:06:51.562619+00:00 shinyapps[158385]:     79: generate.opinion [/srv/connect/apps/opinion_analysis/app.R#61]
+2017-03-03T09:06:51.562619+00:00 shinyapps[158385]:     78: opinion.mining [/srv/connect/apps/opinion_analysis/app.R#6]
+2017-03-03T09:06:51.562620+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#159]
+2017-03-03T09:06:51.562621+00:00 shinyapps[158385]:     13: runApp
+2017-03-03T09:06:51.562621+00:00 shinyapps[158385]:     12: fn
+2017-03-03T09:06:51.562621+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-03T09:06:51.562622+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-03T09:06:51.562623+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-03T09:06:51.562623+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-03T09:06:51.562624+00:00 shinyapps[158385]:      6: eval
+2017-03-03T09:06:51.562624+00:00 shinyapps[158385]:      5: eval
+2017-03-03T09:06:51.562624+00:00 shinyapps[158385]:      4: eval
+2017-03-03T09:06:51.562625+00:00 shinyapps[158385]:      3: eval
+2017-03-03T09:06:51.562625+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-03T09:06:51.562626+00:00 shinyapps[158385]:      1: local
+2017-03-03T09:06:51.562622+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-06T11:05:27.200567+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-06T11:05:27.200607+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-06T11:05:27.200616+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-06T11:05:27.200627+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-06T11:05:27.200628+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-06T11:05:27.200639+00:00 shinyapps[158385]: knitr version: NA
+2017-03-06T11:05:27.200640+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-06T11:05:27.200659+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-06T11:05:27.430414+00:00 shinyapps[158385]: Starting R with process ID: '18'
+2017-03-06T11:05:27.447726+00:00 shinyapps[158385]: 
+2017-03-06T11:05:27.447728+00:00 shinyapps[158385]: Listening on http://0.0.0.0:35703
+2017-03-06T11:05:27.425032+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-06T11:05:27.430412+00:00 shinyapps[158385]: 
+2017-03-06T11:05:27.200666+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-06T11:05:58.817781+00:00 shinyapps[158385]: Loading required package: RColorBrewer
+2017-03-06T11:05:58.893301+00:00 shinyapps[158385]: Loading required package: NLP
+2017-03-06T11:05:59.026041+00:00 shinyapps[158385]: [1] "Required Libraries Loaded"
+2017-03-06T11:05:59.028189+00:00 shinyapps[158385]: Read 2006 items
+2017-03-06T11:05:59.032082+00:00 shinyapps[158385]: Read 4783 items
+2017-03-06T11:05:59.032175+00:00 shinyapps[158385]: [1] "Files Loaded"
+2017-03-06T11:05:59.032360+00:00 shinyapps[158385]: [1] "Using direct authentication"
+2017-03-06T11:05:59.166540+00:00 shinyapps[158385]: [1] "Connection Established"
+2017-03-06T11:06:04.687993+00:00 shinyapps[158385]: Warning: Error in getResponse: Algorithm error: Account doesn't have any remaining credits
+2017-03-06T11:06:04.693759+00:00 shinyapps[158385]:      6: eval
+2017-03-06T11:06:04.693751+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-06T11:06:04.693757+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-06T11:06:04.693752+00:00 shinyapps[158385]:     81: getResponse
+2017-03-06T11:06:04.693756+00:00 shinyapps[158385]:     13: runApp
+2017-03-06T11:06:04.693760+00:00 shinyapps[158385]:      1: local
+2017-03-06T11:06:04.693753+00:00 shinyapps[158385]:     80: algo$pipe
+2017-03-06T11:06:04.693757+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-06T11:06:04.693760+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-06T11:06:04.693754+00:00 shinyapps[158385]:     79: generate.opinion [/srv/connect/apps/opinion_analysis/app.R#61]
+2017-03-06T11:06:04.693758+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-06T11:06:04.693755+00:00 shinyapps[158385]:     78: opinion.mining [/srv/connect/apps/opinion_analysis/app.R#6]
+2017-03-06T11:06:04.693758+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-06T11:06:04.693755+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#159]
+2017-03-06T11:06:04.693758+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-06T11:06:04.693756+00:00 shinyapps[158385]:     12: fn
+2017-03-06T11:06:04.693760+00:00 shinyapps[158385]:      3: eval
+2017-03-06T11:06:04.693759+00:00 shinyapps[158385]:      5: eval
+2017-03-06T11:06:04.693759+00:00 shinyapps[158385]:      4: eval
+2017-03-06T18:09:05.453887+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-06T18:09:05.453947+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-06T18:09:05.453956+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-06T18:09:05.453964+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-06T18:09:05.453964+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-06T18:09:05.453976+00:00 shinyapps[158385]: knitr version: NA
+2017-03-06T18:09:05.453977+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-06T18:09:05.453977+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-06T18:09:05.453987+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-06T18:09:05.624206+00:00 shinyapps[158385]: Starting R with process ID: '15'
+2017-03-06T18:09:05.640702+00:00 shinyapps[158385]: 
+2017-03-06T18:09:05.640707+00:00 shinyapps[158385]: Listening on http://0.0.0.0:42268
+2017-03-06T18:09:05.618454+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-06T18:09:05.624204+00:00 shinyapps[158385]: 
+2017-03-06T18:10:58.154181+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-06T18:10:58.154241+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-06T18:10:58.154276+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-06T18:10:58.154299+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-06T18:10:58.154336+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-06T18:10:58.154337+00:00 shinyapps[158385]: knitr version: NA
+2017-03-06T18:10:58.154345+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-06T18:10:58.154409+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-06T18:10:58.154440+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-06T18:10:58.326197+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-06T18:10:58.332176+00:00 shinyapps[158385]: 
+2017-03-06T18:10:58.332179+00:00 shinyapps[158385]: Starting R with process ID: '34'
+2017-03-06T18:10:58.348850+00:00 shinyapps[158385]: Listening on http://0.0.0.0:35472
+2017-03-06T18:10:58.348846+00:00 shinyapps[158385]: 
+2017-03-06T18:13:16.114806+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-06T18:13:16.114847+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-06T18:13:16.114868+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-06T18:13:16.114872+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-06T18:13:16.114872+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-06T18:13:16.114872+00:00 shinyapps[158385]: knitr version: NA
+2017-03-06T18:13:16.114873+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-06T18:13:16.114893+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-06T18:13:16.268739+00:00 shinyapps[158385]: 
+2017-03-06T18:13:16.268742+00:00 shinyapps[158385]: Starting R with process ID: '49'
+2017-03-06T18:13:16.284542+00:00 shinyapps[158385]: 
+2017-03-06T18:13:16.284545+00:00 shinyapps[158385]: Listening on http://0.0.0.0:36993
+2017-03-06T18:13:16.114894+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-06T18:13:16.263198+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-06T18:15:01.291302+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-06T18:15:01.291331+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-06T18:15:01.291333+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-06T18:15:01.291364+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-06T18:15:01.291394+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-06T18:15:01.291427+00:00 shinyapps[158385]: knitr version: NA
+2017-03-06T18:15:01.291456+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-06T18:15:01.291483+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-06T18:15:01.291490+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-06T18:15:01.442887+00:00 shinyapps[158385]: 
+2017-03-06T18:15:01.459438+00:00 shinyapps[158385]: Listening on http://0.0.0.0:35813
+2017-03-06T18:15:01.437307+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-06T18:15:01.442888+00:00 shinyapps[158385]: Starting R with process ID: '60'
+2017-03-06T18:15:01.459434+00:00 shinyapps[158385]: 
+2017-03-06T18:17:02.599462+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-06T18:17:02.599500+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-06T18:17:02.599502+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-06T18:17:02.599504+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-06T18:17:02.599504+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-06T18:17:02.599526+00:00 shinyapps[158385]: knitr version: NA
+2017-03-06T18:17:02.599533+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-06T18:17:02.599576+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-06T18:17:02.763898+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-06T18:17:02.769751+00:00 shinyapps[158385]: 
+2017-03-06T18:17:02.769753+00:00 shinyapps[158385]: Starting R with process ID: '70'
+2017-03-06T18:17:02.786021+00:00 shinyapps[158385]: 
+2017-03-06T18:17:02.786024+00:00 shinyapps[158385]: Listening on http://0.0.0.0:49762
+2017-03-06T18:17:02.599570+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-06T18:26:43.986671+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-06T18:26:43.986732+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-06T18:26:43.986735+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-06T18:26:43.986738+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-06T18:26:43.986778+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-06T18:26:43.986779+00:00 shinyapps[158385]: knitr version: NA
+2017-03-06T18:26:43.986830+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-06T18:26:43.986885+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-06T18:26:44.145191+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-06T18:26:44.151071+00:00 shinyapps[158385]: Starting R with process ID: '80'
+2017-03-06T18:26:44.167193+00:00 shinyapps[158385]: Listening on http://0.0.0.0:36491
+2017-03-06T18:26:44.167191+00:00 shinyapps[158385]: 
+2017-03-06T18:26:44.151069+00:00 shinyapps[158385]: 
+2017-03-06T18:26:43.986912+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-07T11:21:32.089062+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-07T11:21:32.089120+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-07T11:21:32.089135+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-07T11:21:32.089136+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-07T11:21:32.089137+00:00 shinyapps[158385]: knitr version: NA
+2017-03-07T11:21:32.089144+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-07T11:21:32.089145+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-07T11:21:32.089145+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-07T11:21:32.299709+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-07T11:21:32.304984+00:00 shinyapps[158385]: 
+2017-03-07T11:21:32.089095+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-07T11:21:32.320921+00:00 shinyapps[158385]: Listening on http://0.0.0.0:41695
+2017-03-07T11:21:32.320919+00:00 shinyapps[158385]: 
+2017-03-07T11:21:32.304987+00:00 shinyapps[158385]: Starting R with process ID: '20'
+2017-03-07T11:21:50.528349+00:00 shinyapps[158385]: Warning: Error in observeEventHandler: object 'very_negative_tweets' not found
+2017-03-07T11:21:50.535208+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-07T11:21:50.535210+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#195]
+2017-03-07T11:21:50.535211+00:00 shinyapps[158385]:     13: runApp
+2017-03-07T11:21:50.535211+00:00 shinyapps[158385]:     12: fn
+2017-03-07T11:21:50.535212+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-07T11:21:50.535212+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-07T11:21:50.535213+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-07T11:21:50.535213+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-07T11:21:50.535214+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-07T11:21:50.535214+00:00 shinyapps[158385]:      5: eval
+2017-03-07T11:21:50.535215+00:00 shinyapps[158385]:      4: eval
+2017-03-07T11:21:50.535215+00:00 shinyapps[158385]:      3: eval
+2017-03-07T11:21:50.535215+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-07T11:21:50.535216+00:00 shinyapps[158385]:      1: local
+2017-03-07T11:21:50.535214+00:00 shinyapps[158385]:      6: eval
+2017-03-07T17:26:36.337485+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-07T17:26:36.541620+00:00 shinyapps[158385]: 
+2017-03-07T17:26:36.337557+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-07T17:26:36.541622+00:00 shinyapps[158385]: Listening on http://0.0.0.0:50662
+2017-03-07T17:26:36.337563+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-07T17:26:36.337563+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-07T17:26:36.337563+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-07T17:26:36.337564+00:00 shinyapps[158385]: knitr version: NA
+2017-03-07T17:26:36.337564+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-07T17:26:36.337568+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-07T17:26:36.524879+00:00 shinyapps[158385]: 
+2017-03-07T17:26:36.337571+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-07T17:26:36.524881+00:00 shinyapps[158385]: Starting R with process ID: '19'
+2017-03-07T17:26:36.518962+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-07T17:26:55.973131+00:00 shinyapps[158385]: Warning: Error in observeEventHandler: object 'very_negative_tweets' not found
+2017-03-07T17:26:55.979790+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-07T17:26:55.979791+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#195]
+2017-03-07T17:26:55.979792+00:00 shinyapps[158385]:     13: runApp
+2017-03-07T17:26:55.979792+00:00 shinyapps[158385]:     12: fn
+2017-03-07T17:26:55.979793+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-07T17:26:55.979794+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-07T17:26:55.979794+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-07T17:26:55.979794+00:00 shinyapps[158385]:      6: eval
+2017-03-07T17:26:55.979795+00:00 shinyapps[158385]:      4: eval
+2017-03-07T17:26:55.979795+00:00 shinyapps[158385]:      3: eval
+2017-03-07T17:26:55.979792+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-07T17:26:55.979795+00:00 shinyapps[158385]:      5: eval
+2017-03-07T17:26:55.979793+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-07T17:26:55.979796+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-07T17:26:55.979796+00:00 shinyapps[158385]:      1: local
+2017-03-07T17:27:47.687311+00:00 shinyapps[158385]: Warning: Error in observeEventHandler: object 'very_negative_tweets' not found
+2017-03-07T17:27:47.691215+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-07T17:27:47.691217+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#195]
+2017-03-07T17:27:47.691218+00:00 shinyapps[158385]:     13: runApp
+2017-03-07T17:27:47.691218+00:00 shinyapps[158385]:     12: fn
+2017-03-07T17:27:47.691218+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-07T17:27:47.691219+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-07T17:27:47.691219+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-07T17:27:47.691220+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-07T17:27:47.691220+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-07T17:27:47.691220+00:00 shinyapps[158385]:      6: eval
+2017-03-07T17:27:47.691221+00:00 shinyapps[158385]:      4: eval
+2017-03-07T17:27:47.691222+00:00 shinyapps[158385]:      3: eval
+2017-03-07T17:27:47.691222+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-07T17:27:47.691222+00:00 shinyapps[158385]:      1: local
+2017-03-07T17:27:47.691221+00:00 shinyapps[158385]:      5: eval
+2017-03-07T17:28:15.506015+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-07T17:28:15.506076+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-07T17:28:15.506079+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-07T17:28:15.506087+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-07T17:28:15.506100+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-07T17:28:15.506112+00:00 shinyapps[158385]: knitr version: NA
+2017-03-07T17:28:15.506160+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-07T17:28:15.506191+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-07T17:28:15.506224+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-07T17:28:15.652133+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-07T17:28:15.657422+00:00 shinyapps[158385]: 
+2017-03-07T17:28:15.673086+00:00 shinyapps[158385]: Listening on http://0.0.0.0:48707
+2017-03-07T17:28:15.657424+00:00 shinyapps[158385]: Starting R with process ID: '40'
+2017-03-07T17:28:15.673084+00:00 shinyapps[158385]: 
+2017-03-07T17:30:58.283440+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-07T17:30:58.451276+00:00 shinyapps[158385]: 
+2017-03-07T17:30:58.451278+00:00 shinyapps[158385]: Starting R with process ID: '50'
+2017-03-07T17:30:58.467813+00:00 shinyapps[158385]: 
+2017-03-07T17:30:58.467815+00:00 shinyapps[158385]: Listening on http://0.0.0.0:48120
+2017-03-07T17:30:58.283474+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-07T17:30:58.283477+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-07T17:30:58.283482+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-07T17:30:58.283486+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-07T17:30:58.283522+00:00 shinyapps[158385]: knitr version: NA
+2017-03-07T17:30:58.283563+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-07T17:30:58.283591+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-07T17:30:58.283606+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-07T17:30:58.444464+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-07T17:31:14.879914+00:00 shinyapps[158385]: Warning: Error in observeEventHandler: object 'very_negative_tweets' not found
+2017-03-07T17:31:14.886877+00:00 shinyapps[158385]:      6: eval
+2017-03-07T17:31:14.886877+00:00 shinyapps[158385]:      5: eval
+2017-03-07T17:31:14.886878+00:00 shinyapps[158385]:      4: eval
+2017-03-07T17:31:14.886878+00:00 shinyapps[158385]:      3: eval
+2017-03-07T17:31:14.886878+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-07T17:31:14.886879+00:00 shinyapps[158385]:      1: local
+2017-03-07T17:31:14.886872+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-07T17:31:14.886873+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#195]
+2017-03-07T17:31:14.886874+00:00 shinyapps[158385]:     13: runApp
+2017-03-07T17:31:14.886874+00:00 shinyapps[158385]:     12: fn
+2017-03-07T17:31:14.886875+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-07T17:31:14.886875+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-07T17:31:14.886875+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-07T17:31:14.886876+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-07T17:31:14.886876+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-07T17:31:42.706957+00:00 shinyapps[158385]: Warning: Error in observeEventHandler: object 'very_negative_tweets' not found
+2017-03-07T17:31:42.710854+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-07T17:31:42.710856+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#195]
+2017-03-07T17:31:42.710857+00:00 shinyapps[158385]:     13: runApp
+2017-03-07T17:31:42.710857+00:00 shinyapps[158385]:     12: fn
+2017-03-07T17:31:42.710858+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-07T17:31:42.710858+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-07T17:31:42.710858+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-07T17:31:42.710859+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-07T17:31:42.710860+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-07T17:31:42.710860+00:00 shinyapps[158385]:      6: eval
+2017-03-07T17:31:42.710860+00:00 shinyapps[158385]:      5: eval
+2017-03-07T17:31:42.710861+00:00 shinyapps[158385]:      4: eval
+2017-03-07T17:31:42.710861+00:00 shinyapps[158385]:      3: eval
+2017-03-07T17:31:42.710862+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-07T17:31:42.710862+00:00 shinyapps[158385]:      1: local
+2017-03-07T17:32:23.252587+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-07T17:32:23.252620+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-07T17:32:23.252623+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-07T17:32:23.252623+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-07T17:32:23.252624+00:00 shinyapps[158385]: knitr version: NA
+2017-03-07T17:32:23.252634+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-07T17:32:23.252634+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-07T17:32:23.252635+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-07T17:32:23.400255+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-07T17:32:23.405585+00:00 shinyapps[158385]: 
+2017-03-07T17:32:23.405586+00:00 shinyapps[158385]: Starting R with process ID: '19'
+2017-03-07T17:32:23.421456+00:00 shinyapps[158385]: 
+2017-03-07T17:32:23.421458+00:00 shinyapps[158385]: Listening on http://0.0.0.0:46719
+2017-03-07T17:32:23.252566+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-07T17:32:41.336574+00:00 shinyapps[158385]: Warning: Error in observeEventHandler: object 'very_negative_tweets' not found
+2017-03-07T17:32:41.343625+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-07T17:32:41.343626+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#195]
+2017-03-07T17:32:41.343627+00:00 shinyapps[158385]:     13: runApp
+2017-03-07T17:32:41.343627+00:00 shinyapps[158385]:     12: fn
+2017-03-07T17:32:41.343628+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-07T17:32:41.343628+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-07T17:32:41.343629+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-07T17:32:41.343629+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-07T17:32:41.343630+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-07T17:32:41.343630+00:00 shinyapps[158385]:      6: eval
+2017-03-07T17:32:41.343631+00:00 shinyapps[158385]:      5: eval
+2017-03-07T17:32:41.343631+00:00 shinyapps[158385]:      4: eval
+2017-03-07T17:32:41.343631+00:00 shinyapps[158385]:      3: eval
+2017-03-07T17:32:41.343632+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-07T17:32:41.343632+00:00 shinyapps[158385]:      1: local
+2017-03-07T17:34:03.734218+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-07T17:34:03.906309+00:00 shinyapps[158385]: Starting R with process ID: '19'
+2017-03-07T17:34:03.734262+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-07T17:34:03.923725+00:00 shinyapps[158385]: 
+2017-03-07T17:34:03.734279+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-07T17:34:03.734311+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-07T17:34:03.734282+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-07T17:34:03.923729+00:00 shinyapps[158385]: Listening on http://0.0.0.0:51978
+2017-03-07T17:34:03.734282+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-07T17:34:03.734282+00:00 shinyapps[158385]: knitr version: NA
+2017-03-07T17:34:03.734306+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-07T17:34:03.734307+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-07T17:34:03.900235+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-07T17:34:03.906307+00:00 shinyapps[158385]: 
+2017-03-07T17:34:16.916580+00:00 shinyapps[158385]: Warning: Error in observeEventHandler: object 'very_negative_tweets' not found
+2017-03-07T17:34:16.923624+00:00 shinyapps[158385]:     13: runApp
+2017-03-07T17:34:16.923621+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-07T17:34:16.923628+00:00 shinyapps[158385]:      4: eval
+2017-03-07T17:34:16.923623+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#195]
+2017-03-07T17:34:16.923626+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-07T17:34:16.923624+00:00 shinyapps[158385]:     12: fn
+2017-03-07T17:34:16.923625+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-07T17:34:16.923629+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-07T17:34:16.923625+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-07T17:34:16.923629+00:00 shinyapps[158385]:      1: local
+2017-03-07T17:34:16.923626+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-07T17:34:16.923627+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-07T17:34:16.923628+00:00 shinyapps[158385]:      3: eval
+2017-03-07T17:34:16.923627+00:00 shinyapps[158385]:      6: eval
+2017-03-07T17:34:16.923628+00:00 shinyapps[158385]:      5: eval
+2017-03-07T17:36:35.774638+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-07T17:36:35.774679+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-07T17:36:35.774689+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-07T17:36:35.774689+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-07T17:36:35.774696+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-07T17:36:35.774697+00:00 shinyapps[158385]: knitr version: NA
+2017-03-07T17:36:35.774724+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-07T17:36:35.774746+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-07T17:36:35.940504+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-07T17:36:35.946507+00:00 shinyapps[158385]: 
+2017-03-07T17:36:35.946509+00:00 shinyapps[158385]: Starting R with process ID: '37'
+2017-03-07T17:36:35.962941+00:00 shinyapps[158385]: Listening on http://0.0.0.0:52456
+2017-03-07T17:36:35.774752+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-07T17:36:35.962939+00:00 shinyapps[158385]: 
+2017-03-07T17:36:45.803528+00:00 shinyapps[158385]: Warning: Error in observeEventHandler: object 'very_negative_tweets' not found
+2017-03-07T17:36:45.811080+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-07T17:36:45.811081+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#195]
+2017-03-07T17:36:45.811082+00:00 shinyapps[158385]:     13: runApp
+2017-03-07T17:36:45.811083+00:00 shinyapps[158385]:     12: fn
+2017-03-07T17:36:45.811083+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-07T17:36:45.811084+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-07T17:36:45.811084+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-07T17:36:45.811085+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-07T17:36:45.811085+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-07T17:36:45.811086+00:00 shinyapps[158385]:      4: eval
+2017-03-07T17:36:45.811087+00:00 shinyapps[158385]:      3: eval
+2017-03-07T17:36:45.811087+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-07T17:36:45.811087+00:00 shinyapps[158385]:      1: local
+2017-03-07T17:36:45.811086+00:00 shinyapps[158385]:      6: eval
+2017-03-07T17:36:45.811086+00:00 shinyapps[158385]:      5: eval
+2017-03-07T18:03:10.225688+00:00 shinyapps[158385]: rmarkdown version: NA
+2017-03-07T18:03:10.225689+00:00 shinyapps[158385]: knitr version: NA
+2017-03-07T18:03:10.225689+00:00 shinyapps[158385]: jsonlite version: 1.2
+2017-03-07T18:03:10.225608+00:00 shinyapps[158385]: Server version: 1.1.0-116
+2017-03-07T18:03:10.225701+00:00 shinyapps[158385]: RJSONIO version: NA
+2017-03-07T18:03:10.225638+00:00 shinyapps[158385]: LANG: en_IN.UTF-8
+2017-03-07T18:03:10.391757+00:00 shinyapps[158385]: 
+2017-03-07T18:03:10.225658+00:00 shinyapps[158385]: R version: 3.3.2
+2017-03-07T18:03:10.408542+00:00 shinyapps[158385]: Listening on http://0.0.0.0:52345
+2017-03-07T18:03:10.225676+00:00 shinyapps[158385]: shiny version: 1.0.0
+2017-03-07T18:03:10.225707+00:00 shinyapps[158385]: htmltools version: 0.3.5
+2017-03-07T18:03:10.391760+00:00 shinyapps[158385]: Starting R with process ID: '20'
+2017-03-07T18:03:10.383453+00:00 shinyapps[158385]: Using jsonlite for JSON processing
+2017-03-07T18:03:10.408540+00:00 shinyapps[158385]: 
+2017-03-07T18:03:20.624685+00:00 shinyapps[158385]: Warning: Error in observeEventHandler: object 'very_negative_tweets' not found
+2017-03-07T18:03:20.629689+00:00 shinyapps[158385]:      7: connect$retry
+2017-03-07T18:03:20.629684+00:00 shinyapps[158385]: Stack trace (innermost first):
+2017-03-07T18:03:20.629686+00:00 shinyapps[158385]:     77: observeEventHandler [/srv/connect/apps/opinion_analysis/app.R#195]
+2017-03-07T18:03:20.629687+00:00 shinyapps[158385]:     13: runApp
+2017-03-07T18:03:20.629688+00:00 shinyapps[158385]:     12: fn
+2017-03-07T18:03:20.629691+00:00 shinyapps[158385]:      2: eval.parent
+2017-03-07T18:03:20.629688+00:00 shinyapps[158385]:     11: doTryCatch
+2017-03-07T18:03:20.629688+00:00 shinyapps[158385]:     10: tryCatchOne
+2017-03-07T18:03:20.629691+00:00 shinyapps[158385]:      3: eval
+2017-03-07T18:03:20.629689+00:00 shinyapps[158385]:      8: tryCatch
+2017-03-07T18:03:20.629690+00:00 shinyapps[158385]:      5: eval
+2017-03-07T18:03:20.629691+00:00 shinyapps[158385]:      4: eval
+2017-03-07T18:03:20.629692+00:00 shinyapps[158385]:      1: local
+2017-03-07T18:03:20.629689+00:00 shinyapps[158385]:      9: tryCatchList
+2017-03-07T1
